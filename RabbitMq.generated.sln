@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransit.WebApi", "MassTransit.WebApi\MassTransit.WebApi.csproj", "{3CC39796-53BC-4477-A1B2-3096FBFFD0A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC39796-53BC-4477-A1B2-3096FBFFD0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC39796-53BC-4477-A1B2-3096FBFFD0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC39796-53BC-4477-A1B2-3096FBFFD0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC39796-53BC-4477-A1B2-3096FBFFD0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8556A3F1-08BB-48F7-B594-543D9492FF18}
+	EndGlobalSection
+EndGlobal
